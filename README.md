@@ -1,39 +1,26 @@
-# TALLER CLIENTES Y SERVICIOS 
+# TALLER INTRODUCCIÓN A HEROKU
 
-Proyecto para explorar los conceptos de clientes y servicios, ayudando a entender la arquitectura de las aplicaciones distribuidas en internet.
+Despliegue aplicación web a heroku.
 
 ## Clonacion del repositorio 
 
 Para clonar el proyecto usar el siguiente comando:
 
 ```
-git clone https://github.com/mariahv9/ClientServicesAREP
+git clone https://github.com/mariahv9/HerokuAREP
 ```
 
 ### Ejecucion App
 
-```
-cd clientServicesAREP
-mvn package
-java cp 
-```
-
-### Despliegue de la App
-
 Abrir el siguiente para ver el despliegue:
 
-* [HerokuApp]()
-
-### Control versionamiento
-
-[![CircleCI](https://circleci.com/gh/mariahv9/ClientServicesAREP.svg?style=svg&circle-token=fa8c51f3bedd926b133267148a5e3c22e1617f4a)]()
+* [HerokuApp](http://herokuarep.herokuapp.com/hello)
 
 ## Construido con 
 
 * [Java 8](https://www.java.com/es/about/whatis_java.jsp)
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 * [Heroku](https://dashboard.heroku.com/) - Despliegue
-* [CircleCI](https://circleci.com/) - Control de versionamiento
 
 
 ## Autor
